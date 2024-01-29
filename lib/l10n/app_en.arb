@@ -1,0 +1,10 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "auth_message": "Please sign in to continue",
+  "error_email": "Invalid email",
+  "content_manager": "Content Manager",
+  "project_folders": "Project Folders",
+  "error_password": "Password must contain at least 8 characters and include a combination of lowercase, uppercase, numbers, and special characters"
+}
