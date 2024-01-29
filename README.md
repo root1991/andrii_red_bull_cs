@@ -40,7 +40,7 @@ https://github.com/root1991/andrii_red_bull_cs/assets/4290669/7373baf3-9d55-4c07
 ### iOS errors scenario
 https://github.com/root1991/andrii_red_bull_cs/assets/4290669/3df64862-1170-4b25-8952-386d5a027394
 
-##Known issues
+## Known issues
 
 - Filter button does nothing (It was not enough info in the test task, was it should do)
 - Missing Android design. (As Android design was missing, I desided to make similar design for both platforms)
