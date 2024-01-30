@@ -42,7 +42,7 @@ https://github.com/root1991/andrii_red_bull_cs/assets/4290669/3df64862-1170-4b25
 
 ## Known issues
 
-- Filter button does nothing (It was not enough info in the test task, was it should do)
+- Filter button does nothing (It was not enough info in the test task, what it should do)
 - Missing Android design. (As Android design was missing, I desided to make similar design for both platforms)
 - Creation date is missing for videos (I think I didn't find a way where to get this creation date, there is only creation date for user in response)
   
